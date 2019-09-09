@@ -5,6 +5,7 @@
 
 ## 데이터셋 설명
 연구실 건물 1층 ,2층, 3층에서 0m, 6m 12m 총 9군데에서 4종류의 소음원을 활용하여 총 30개의 Label을 녹음하였다.
+
 1개의 Label당 50개의 데이터가 있어서 총 1500개의 데이터셋을 사용하였다
 
 ![LAbelPIC](https://user-images.githubusercontent.com/53989499/64506230-bd93de00-d311-11e9-9577-bf9d50bb6a50.png)
